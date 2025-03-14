@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs)](https://skillicons.dev)
 <!--
 **bratikoo/bratikoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
